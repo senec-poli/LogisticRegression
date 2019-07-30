@@ -1,2 +1,2 @@
 # LogisticRegression
-Introduction to Logistic Regression
+These files are meant to give an introduction to logistic regression.
